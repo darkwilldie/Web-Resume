@@ -12,11 +12,11 @@ ul > li {
   animation: gradient-animation 18s ease infinite;
 }
 #edu {
-  background-color: #f0f0f0;
+  background-color: #f9f3ef;
 }
 
 #skills {
-  background-color: #f9f3ef;
+  background-color: #f0f0f0;
 }
 
 #other {
