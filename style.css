@@ -65,6 +65,27 @@ ul > li {
   display: block;
 }
 
+#footer {
+  /* margin-top: -1rem; */
+}
+
+#my-photo {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+#about-me {
+  font-family: "Satisfy", cursive;
+  font-size: 3rem;
+  color: #ef8172;
+}
+
+#contact {
+  font-family: "Lato", sans-serif;
+  margin: 0;
+}
 .content {
   font-size: 1.5rem;
   font-family: "Lato", sans-serif;
