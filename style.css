@@ -47,7 +47,7 @@ ul > li {
 }
 
 #summary-content {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   line-height: 1.6;
   font-weight: 400;
   color: #666;
@@ -83,16 +83,18 @@ ul > li {
   text-align: center;
 }
 
-#my-hobby {
+#my-hobbies {
   font-family: "Playpen Sans Hebrew", cursive;
   color: #ef8172;
 }
 
 #hello {
   font-family: "Playpen Sans Hebrew", cursive;
-  font-size: 2rem;
+  font-size: 2.5rem;
   color: #b4ebe6;
+  text-align: center;
 }
+
 #contact {
   font-family: "Lato", sans-serif;
   margin: 0;
