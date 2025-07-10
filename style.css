@@ -65,10 +65,6 @@ ul > li {
   display: block;
 }
 
-#footer {
-  /* margin-top: -1rem; */
-}
-
 #my-photo {
   border-radius: 50%;
   width: 100px;
@@ -136,4 +132,14 @@ h2 {
 .award-list li {
   padding: 5px 0;
   border-bottom: 1px dashed #9dbdff;
+}
+.award-list li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.date {
+  margin-left: 1rem;
+  color: #888;
+  font-size: 0.95em;
 }
