@@ -7,7 +7,7 @@ btn.onclick = function () {
     btn.textContent = "☀";
   } else {
     body.setAttribute("data-bs-theme", "dark");
-    btn.textContent = "☾";
+    btn.textContent = "⏾";
   }
   for (var i = 0; i < hasDarks.length; i++) {
     hasDarks[i].classList.toggle("dark");
