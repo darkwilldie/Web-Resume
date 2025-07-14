@@ -13,7 +13,7 @@ ul > li {
 }
 
 .gradient-background.dark {
-  background: linear-gradient(300deg, #a0afc0, #61679c, #607274);
+  background: linear-gradient(300deg, #faf0e6, #61679c, #3795bd);
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
 }
@@ -25,7 +25,7 @@ ul > li {
 #edu.dark {
   /* background-color: #547792; */
   /* background-color: #4a797a; */
-  background-color: #607274;
+  background-color: #468fa0;
 }
 
 #skills {
@@ -34,7 +34,7 @@ ul > li {
 
 #skills.dark {
   /* background-color: #2a1458; */
-  background-color: #4b4376;
+  background-color: #506396;
 }
 
 #other {
@@ -42,7 +42,7 @@ ul > li {
 }
 
 #other.dark {
-  background-color: #393e46;
+  background-color: #6e74af;
 }
 
 #name {
