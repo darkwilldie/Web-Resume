@@ -11,16 +11,38 @@ ul > li {
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
 }
+
+.gradient-background.dark {
+  background: linear-gradient(300deg, #a0afc0, #61679c, #607274);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
 #edu {
   background-color: #f9f3ef;
+}
+
+#edu.dark {
+  /* background-color: #547792; */
+  /* background-color: #4a797a; */
+  background-color: #607274;
 }
 
 #skills {
   background-color: #f0f0f0;
 }
 
+#skills.dark {
+  /* background-color: #2a1458; */
+  background-color: #4b4376;
+}
+
 #other {
   background-color: #fdfaf6;
+}
+
+#other.dark {
+  background-color: #393e46;
 }
 
 #name {
@@ -31,6 +53,10 @@ ul > li {
   font-size: 3rem;
 }
 
+#name.dark {
+  color: #ffecda;
+}
+
 #occup {
   font-size: 1.8rem;
   line-height: 1.6;
@@ -38,6 +64,10 @@ ul > li {
   font-style: italic;
   text-decoration: underline;
   color: #547792;
+}
+
+#occup.dark {
+  color: #fde2e2;
 }
 
 #summary-title {
@@ -50,7 +80,7 @@ ul > li {
   font-size: 1.3rem;
   line-height: 1.6;
   font-weight: 400;
-  color: #666;
+  /* color: #666; */
 }
 
 #edu-year {
@@ -100,6 +130,10 @@ ul > li {
   font-size: 1.5rem;
   font-family: "Lato", sans-serif;
   color: #666;
+}
+
+.content.dark {
+  color: #f2efe5;
 }
 
 h2 {
