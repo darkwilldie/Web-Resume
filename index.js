@@ -1,15 +1,14 @@
-const btn = document.getElementById("toggle-dark");
-var hasDarks = document.querySelectorAll(".has-dark, section");
-btn.onclick = function () {
-  const body = document.body;
-  if (body.getAttribute("data-bs-theme") === "dark") {
-    body.setAttribute("data-bs-theme", "light");
-    btn.textContent = "☀";
+const $btn = $("#toggle-dark");
+const $hasDarks = $(".has-dark, section");
+
+$btn.on("click", function () {
+  $hasDarks.toggleClass("dark");
+  const $body = $("body");
+  if ($body.attr("data-bs-theme") === "dark") {
+    $body.attr("data-bs-theme", "light");
+    $btn.text("☀");
   } else {
-    body.setAttribute("data-bs-theme", "dark");
-    btn.textContent = "⏾";
+    $body.attr("data-bs-theme", "dark");
+    $btn.text("⏾");
   }
-  for (var i = 0; i < hasDarks.length; i++) {
-    hasDarks[i].classList.toggle("dark");
-  }
-};
+});
