@@ -6,6 +6,11 @@ ul > li {
   gap: 10px;
 }
 
+#name-logo {
+  font-family: "Satisfy", cursive;
+  color: #9dbdff;
+}
+
 .gradient-background {
   background: linear-gradient(300deg, #00bfff, #91c8e4, #ef8172);
   background-size: 180% 180%;

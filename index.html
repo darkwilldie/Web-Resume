@@ -17,7 +17,33 @@
 </head>
 
 <body>
-    <button id="toggle-dark" class="btn btn-secondary position-fixed">☾/☼</button>
+    <!-- 替换原导航栏部分（第20-31行） -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-light px-3 rounded shadow-sm">
+        <a id="name-logo" class="navbar-brand fw-bold" href="#">Qianrui Liu</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar"
+            aria-controls="mainNavbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="mainNavbar">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item"><a class="nav-link" href="#intro" id="nav-intro">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="#edu" id="nav-edu">Education</a></li>
+                <li class="nav-item"><a class="nav-link" href="#project-list" id="nav-projects">Projects</a></li>
+                <li class="nav-item"><a class="nav-link" href="#skills" id="nav-skills">Skills & Awards</a></li>
+                <li class="nav-item"><a class="nav-link" href="#footer" id="nav-contact">Contact</a></li>
+            </ul>
+            <div class="d-flex align-items-center gap-2">
+                <!-- 语言切换 -->
+                <div class="btn-group" role="group" aria-label="Language Switch">
+                    <button type="button" class="btn btn-outline-primary btn-sm" onclick="setLang('en')">EN</button>
+                    <button type="button" class="btn btn-outline-success btn-sm" onclick="setLang('zh')">CN</button>
+                    <button type="button" class="btn btn-outline-secondary btn-sm" onclick="setLang('jp')">JP</button>
+                </div>
+                <!-- 夜间模式切换 -->
+                <button id="toggle-dark" class="btn btn-outline-secondary" title="Dark Mode">☾/☼</button>
+            </div>
+        </div>
+    </nav>
     <section id="intro" class="gradient-background">
         <div class="container d-flex flex-column align-items-center justify-content-center py-5">
             <!-- <div class="container d-flex justify-content-center align-items-center p-5"> -->
