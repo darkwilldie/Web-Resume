@@ -11,6 +11,10 @@ ul > li {
   color: #9dbdff;
 }
 
+#intro {
+  min-height: 500px;
+}
+
 .gradient-background {
   background: linear-gradient(300deg, #00bfff, #91c8e4, #ef8172);
   background-size: 180% 180%;
@@ -21,6 +25,18 @@ ul > li {
   background: linear-gradient(300deg, #faf0e6, #61679c, #3795bd);
   background-size: 180% 180%;
   animation: gradient-animation 18s ease infinite;
+}
+
+#name {
+  /* font-family: "Times New Roman", Times, serif; */
+  /* font-family: "Satisfy", cursive; */
+  font-family: "Bad Script", cursive;
+  color: #4682a9;
+  font-size: 4rem;
+}
+
+#name.dark {
+  color: #ffecda;
 }
 
 #edu {
@@ -48,18 +64,6 @@ ul > li {
 
 #other.dark {
   background-color: #6e74af;
-}
-
-#name {
-  /* font-family: "Times New Roman", Times, serif; */
-  /* font-family: "Satisfy", cursive; */
-  font-family: "Bad Script", cursive;
-  color: #4682a9;
-  font-size: 3rem;
-}
-
-#name.dark {
-  color: #ffecda;
 }
 
 #occup {

@@ -62,7 +62,7 @@ function setLang(lang) {
   $("#project2-date").text(t["project2-date"]);
   $("#skills-h2").text(t["skills-h2"]);
   $("#awards-h2").text(t["awards-h2"]);
-  $("#about-me-h2").text(t["about-me-h2"]);
+  // $("#about-me-h2").text(t["about-me-h2"]);
   $("#hobbies-h2").text(t["hobbies-h2"]);
   // $("#hello").text(t.hello);
   // $("#contact").text(t.contact);
