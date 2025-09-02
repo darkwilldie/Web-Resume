@@ -91,12 +91,13 @@ ul > li {
 #edu-year {
   text-align: right;
 }
+
 #wtu-img {
   border-radius: 50%;
-  width: 102px;
-  height: 80px;
+  width: 70px;
+  height: 62px;
   object-fit: contain;
-  /* height: auto; */
+  padding: 0px;
   display: block;
 }
 
@@ -107,16 +108,11 @@ ul > li {
   object-fit: cover;
 }
 
-#about-me {
+#about-me-h2 {
   font-family: "Satisfy", cursive;
   font-size: 4rem;
   color: #ef8172;
   text-align: center;
-}
-
-#my-hobbies {
-  font-family: "Playpen Sans Hebrew", cursive;
-  color: #ef8172;
 }
 
 #hello {
