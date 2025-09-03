@@ -36,7 +36,7 @@ ul > li {
 }
 
 #name.dark {
-  color: #ffecda;
+  color: #d8c9ba;
 }
 
 #edu {
@@ -46,7 +46,8 @@ ul > li {
 #edu.dark {
   /* background-color: #547792; */
   /* background-color: #4a797a; */
-  background-color: #468fa0;
+  /* background-color: #468fa0; */
+  background-color: #528ab1;
 }
 
 #skills {
@@ -55,7 +56,7 @@ ul > li {
 
 #skills.dark {
   /* background-color: #2a1458; */
-  background-color: #506396;
+  background-color: #797eb1;
 }
 
 #other {
@@ -63,7 +64,7 @@ ul > li {
 }
 
 #other.dark {
-  background-color: #6e74af;
+  background-color: #6377ba;
 }
 
 #occup {
@@ -132,13 +133,13 @@ ul > li {
 }
 
 .content {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   font-family: "Lato", sans-serif;
   color: #666;
 }
 
 .content.dark {
-  color: #f2efe5;
+  color: #d1d1d1;
 }
 
 h2 {
