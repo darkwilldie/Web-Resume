@@ -6,6 +6,12 @@ ul > li {
   gap: 10px;
 }
 
+img.proj {
+  height: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
 #name-logo {
   font-family: "Satisfy", cursive;
   color: #9dbdff;
