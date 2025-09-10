@@ -20,7 +20,8 @@
     "project1-desc": [
       "Reproduced baseline and completed code implementation for the proposed idea (PyTorch, NumPy, Matplotlib, TensorBoardX).",
       "Refined innovative ideas through rigorous experimentation and optimization with a peer.",
-      "Drafted parts of paper, published as third author in SCI Q1 journal JBHI."
+      "Drafted parts of paper, published in IEEE Journal of Biomedical and Health Informatics (JBHI).",
+      "Open-source code published on GitHub: <a href=\"https://github.com/Biowust/SWMA-UNet\">https://github.com/Biowust/SWMA-UNet</a>"
     ],
     "project2-title": "Multi-Omics Cell Mapping and Visualization",
     "project2-date": "July 2024 - April 2025",
@@ -32,11 +33,12 @@
     "skills-h2": "Skills",
     "skills-list": [
       "🌍 Chinese (Native️), 🌍 Japanese, 🌍 English",
+      "👾 Python, 👾 JavaScript, 👾 HTML/CSS, 👾 SQL, 👾 C/C++",
       "🛠️ Deep learning, 🛠️ Web Development, 🛠️ Database Management, 🛠️ Distributed Computing, 🛠️ Data Analysis"
     ],
     "awards-h2": "Pub, Awards and Certifications",
     "awards-list": [
-      "🎯 IELTS 6.5 (L7.5 R7 W6 S6) <span class=\"date\">2025.06</span>",
+      "🎯 IELTS (Academic) 6.5 (L7.5 R7 W6 S6) <span class=\"date\">2025.06</span>",
       "🎯 Japanese JLPT N1 148 <span class=\"date\">2024.07</span>",
       "🎯 English CET-6 596 <span class=\"date\">2024.06</span>",
       "🎯 TOEIC L&R 865 <span class=\"date\">2024.10</span>",
@@ -75,7 +77,8 @@
     "project1-desc": [
       "复现基线并完成创新点的代码实现（PyTorch, NumPy, Matplotlib, TensorBoardX）。",
       "与一名同伴通过严格的实验和优化，完善了创新思路。",
-      "撰写部分论文，并以第三作者身份发表于SCI一区期刊JBHI。"
+      "撰写部分论文，并发表于IEEE Journal of Biomedical and Health Informatics (JBHI)。",
+      "开源代码已发布在GitHub：<a href=\"https://github.com/Biowust/SWMA-UNet\">https://github.com/Biowust/SWMA-UNet</a>"
     ],
     "project2-title": "多组学细胞映射与可视化",
     "project2-date": "2024年7月 - 2025年4月",
@@ -87,11 +90,12 @@
     "skills-h2": "技能",
     "skills-list": [
       "🌍 中文 (母语), 🌍 日语, 🌍 英语",
+      "👾 Python, 👾 JavaScript, 👾 HTML/CSS, 👾 SQL, 👾 C/C++",
       "🛠️ 深度学习, 🛠️ Web开发, 🛠️ 数据库管理, 🛠️ 分布式计算, 🛠️ 数据分析"
     ],
     "awards-h2": "发表、奖项与证书",
     "awards-list": [
-      "🎯 雅思 6.5 (听7.5 读7 写6 说6) <span class=\"date\">2025.06</span>",
+      "🎯 雅思（学术类）6.5 (听7.5 读7 写6 说6) <span class=\"date\">2025.06</span>",
       "🎯 日语JLPT N1 148 <span class=\"date\">2024.07</span>",
       "🎯 英语六级 596 <span class=\"date\">2024.06</span>",
       "🎯 托业L&R 865 <span class=\"date\">2024.10</span>",
@@ -130,7 +134,8 @@
     "project1-desc": [
       "ベースラインを再現し、アイデアのコード実装を完了（PyTorch、NumPy、Matplotlib、TensorBoardX）。",
       "仲間との厳密な実験と最適化を通じて革新的なアイデアを洗練。",
-      "論文の一部を執筆し、SCI Q1ジャーナルJBHIに第三著者として掲載。"
+      "論文の一部を執筆し、IEEE Journal of Biomedical and Health Informatics (JBHI) に掲載。",
+      "オープンソースコードはGitHubで公開：<a href=\"https://github.com/Biowust/SWMA-UNet\">https://github.com/Biowust/SWMA-UNet</a>"
     ],
     "project2-title": "マルチオミクス細胞マッピングと可視化",
     "project2-date": "2024年7月 - 2025年4月",
@@ -142,11 +147,12 @@
     "skills-h2": "スキル",
     "skills-list": [
       "🌍 中国語 (ネイティブ)、🌍 日本語、🌍 英語",
+      "👾 Python, 👾 JavaScript, 👾 HTML/CSS, 👾 SQL, 👾 C/C++",
       "🛠️ ディープラーニング、🛠️ ウェブ開発、🛠️ データベース管理、🛠️ 分散コンピューティング、🛠️ データ分析"
     ],
     "awards-h2": "出版、受賞、認定",
     "awards-list": [
-      "🎯 IELTS 6.5 (L7.5 R7 W6 S6) <span class=\"date\">2025.06</span>",
+      "🎯 IELTS（Academic）6.5 (L7.5 R7 W6 S6) <span class=\"date\">2025.06</span>",
       "🎯 日本語能力試験 N1 148点 <span class=\"date\">2024.07</span>",
       "🎯 英語CET-6 596点 <span class=\"date\">2024.06</span>",
       "🎯 TOEIC L&R 865点 <span class=\"date\">2024.10</span>",
