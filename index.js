@@ -88,3 +88,23 @@ function setLang(lang) {
 $(document).ready(function () {
   fetchTranslations();
 });
+
+// function showLarge(src) {
+// document.getElementById("proj-img").src = src;
+// document.getElementById("imgModal").style.display = "flex";
+// }
+// 图片点击放大
+$(".proj-img").on("click", function () {
+  // 找到当前图片的最近的 .imgModal 父元素
+  $(this).closest(".imgModal").css("display", "flex");
+  $(this).closest(".imgModal").addClass("clicked");
+  console.log("magnify!");
+});
+
+// 点击弹窗遮罩关闭
+$(".imgModal").on("click", function (e) {
+  // 只在点击遮罩时关闭，点击图片本身不关闭
+  if (e.target === this) {
+    $(this).removeClass("clicked");
+  }
+});
