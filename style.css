@@ -124,8 +124,16 @@ img.proj-img {
   /* color: #666; */
 }
 
+#edu-gpa {
+  font-size: 1.1rem;
+  color: #707070;
+  display: block;
+  /* margin-top: 5px; */
+}
+
 #edu-year {
   text-align: right;
+  margin-top: 10px;
 }
 
 #wtu-img {
@@ -133,6 +141,7 @@ img.proj-img {
   width: 70px;
   height: 62px;
   object-fit: contain;
+  margin-top: 10px;
   padding: 0px;
   display: block;
 }
@@ -164,9 +173,9 @@ img.proj-img {
 }
 
 .content {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
   font-family: "Lato", sans-serif;
-  color: #666;
+  color: #5c5c5c;
 }
 
 .content.dark {
