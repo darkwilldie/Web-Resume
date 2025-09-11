@@ -1,10 +1,10 @@
 const $navbar = $(".navbar");
 const $btn = $("#toggle-dark");
-const $hasDarks = $(".has-dark, section");
 
 $btn.on("click", function () {
   const $body = $("body");
   const isDark = $body.attr("data-bs-theme") === "dark";
+  const $hasDarks = $(".has-dark, section");
   $hasDarks.toggleClass("dark");
   $navbar.toggleClass("navbar-dark bg-dark navbar-light bg-light");
   $btn.text(isDark ? "⏾" : "☀");

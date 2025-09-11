@@ -130,6 +130,9 @@ img.proj-img {
   display: block;
   /* margin-top: 5px; */
 }
+#edu-gpa.dark {
+  color: #d1d1d1;
+}
 
 #edu-year {
   text-align: right;
